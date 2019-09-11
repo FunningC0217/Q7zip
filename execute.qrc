@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>7zExecute/7z.dll</file>
+        <file>7zExecute/7z.exe</file>
+    </qresource>
+</RCC>
