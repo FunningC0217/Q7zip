@@ -10,20 +10,20 @@ Qt's 7z program, currently only supports windows
  build taget in the Pro file (Qt's project) director,
  case changed target build path in Qt Pro File:
  
- _______________Q7zip.pro___________________
+ --------------Q7zip.pro-------------------
  
- DESTDIR += $$PWD
- __________________________________________
+ * DESTDIR += $$PWD
+ ------------------------------------------
  
  
  
  user method in main function:
- ____________________________________________
+ ---------------------------------------------
  * Q7zip zip;
  * zip.setOutToConselo();
  * zip.inCompress("D:\\outtest.log","D:\\log.7z");
  * zip.unCompress("D:\\log.7z","D:\\log");
- ____________________________________________
+ --------------------------------------------
 
 
 
@@ -38,7 +38,7 @@ Qt's 7z program, currently only supports windows
  
  _______________Q7zip.pro__________________
  
- DESTDIR += $$PWD
+ * DESTDIR += $$PWD
  __________________________________________
  
  
