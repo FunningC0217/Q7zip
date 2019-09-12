@@ -3,7 +3,8 @@
 Qt's 7z program, currently only supports windows
 
 
-
+ # EN
+ 
  user 7z.exe(windows execute) in qt's qrc file.
  u can usr toolchain from MSVC && mingw
   
@@ -25,7 +26,8 @@ Qt's 7z program, currently only supports windows
 
 
 
-
+ # CN
+ 
  Qt 的7z程序，目前仅支持windows
  使用它非常简单 目前只支持了压缩和解压
  
