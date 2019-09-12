@@ -20,9 +20,9 @@ Qt's 7z program, currently only supports windows
  user method in main function:
  ____________________________________________
  Q7zip zip;
- zip.setOutToConselo();
- zip.inCompress("D:\\outtest.log","D:\\log.7z");
- zip.unCompress("D:\\log.7z","D:\\log");
+ *zip.setOutToConselo();
+ *zip.inCompress("D:\\outtest.log","D:\\log.7z");
+ *zip.unCompress("D:\\log.7z","D:\\log");
  ____________________________________________
 
 
@@ -44,10 +44,10 @@ Qt's 7z program, currently only supports windows
  
  main 函数的使用方法：
  ____________________________________________
- Q7zip zip;
- zip.setOutToConselo();
- zip.inCompress("D:\\outtest.log","D:\\log.7z");
- zip.unCompress("D:\\log.7z","D:\\log");
+ *Q7zip zip;
+ *zip.setOutToConselo();
+ *zip.inCompress("D:\\outtest.log","D:\\log.7z");
+ *zip.unCompress("D:\\log.7z","D:\\log");
  ____________________________________________
  
  
