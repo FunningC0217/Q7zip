@@ -31,13 +31,13 @@ Qt's 7z program, currently only supports windows
 
  # CN
  
- Qt 的7z程序，目前仅支持windows
- 使用它非常简单 目前只支持了压缩和解压
+ Qt 的7z程序，目前仅支持windows。
+ 使用它非常简单 目前只支持了压缩和解压。
  
- 在 Qt 的 qrc（资源文件）中使用 7z.exe
- 你可以使用 MSVC 和 mingw 工具链
- 构建目标在Qt 工程的文件夹
- 因为我更改了目标在Pro文件中 
+ 在 Qt 的 qrc（资源文件）中使用 7z.exe。
+ 你可以使用 MSVC 和 mingw 工具链。
+ 构建目标在Qt 工程的文件夹，
+ 因为我更改了目标在Pro文件中：
  
  -----------------Q7zip.pro--------------------
  
