@@ -23,8 +23,11 @@ Qt's 7z program, currently only supports windows
  * zip.inCompress("D:\\outtest.log","D:\\log.7z");
  * zip.unCompress("D:\\log.7z","D:\\log");
  --------------------------------------------
-
-
+ 
+ 
+ 
+ 
+ 
 
  # CN
  
