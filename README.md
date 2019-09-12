@@ -15,8 +15,6 @@ Qt's 7z program, currently only supports windows
  * DESTDIR += $$PWD
  ------------------------------------------
  
- 
- 
  user method in main function:
  ---------------------------------------------
  * Q7zip zip;
